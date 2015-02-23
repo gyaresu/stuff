@@ -1,6 +1,6 @@
 from decimal import *
 
-def increase(x = input('What salery?: ')):	
+def increase(x = input('What salary?: ')):	
 	y = 2010
 	q = x
 	for i in range(21):
